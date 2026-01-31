@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Formula-1-Data-Engineering-Project-Using-Azure-Databricks
 <h3>Project Overview:</h3>
 This project aims to provide a data analysis solution for Formula-1 race results using Azure Databricks. This is an ETL pipeline to ingest Formula 1 motor racing data, transform and load it into our data warehouse for reporting and analysis purposes. The data is sourced from ergast.com, a website dedicated to Formula 1 statistics, and is stored in Azure Datalake Gen2 storage. Data transformation and analysis were performed using Azure Databricks. The entire process is orchestrated using Azure Data Factory.
@@ -190,3 +191,14 @@ The requirements for this project are broken down into six different parts which
   <li>Azure Key Fault</li> 
   <li>Power BI</li> 
 </ul>  
+=======
+# End-to-End-Data-Engineering-Project-on-Formula-1-Racing-using-Azure-Databricks
+This repository showcases a complete cloud‑native data engineering solution built on Azure Databricks, Data Lake, and Synapse Analytics. It demonstrates how to design scalable ETL pipelines, transform raw racing datasets, and deliver actionable insights into Formula 1 performance.
+
+Key Features
+- ⚙️ Data Ingestion & Transformation: Automated pipelines with Azure Data Factory, Databricks (PySpark/SQL).
+- 📈 Analytics & Insights: Driver performance, race statistics, and predictive modeling.
+- ☁️ Cloud-Native Architecture: Secure, reproducible workflows leveraging Azure Data Lake & Synapse.
+- 🏎️ Real-World Use Case: Motorsport analytics applied to Formula 1 racing datasets.
+This project highlights best practices in data engineering, cloud scalability, and analytics-driven decision making.
+>>>>>>> 8d3dc384b4d4ea8422fcfe12ce7c0ef76959a9bb
