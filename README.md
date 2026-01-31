@@ -200,4 +200,3 @@ Key Features
 - ☁️ Cloud-Native Architecture: Secure, reproducible workflows leveraging Azure Data Lake & Synapse.
 - 🏎️ Real-World Use Case: Motorsport analytics applied to Formula 1 racing datasets.
 This project highlights best practices in data engineering, cloud scalability, and analytics-driven decision making.
->>>>>>> 8d3dc384b4d4ea8422fcfe12ce7c0ef76959a9bb
